@@ -1,0 +1,6 @@
+{
+  "name": "መራሔ ጥበብ ",
+  "description": "A spiritual companion app focused on the history of monasteries, traditional education (Abnet), famous teachers, and religious holidays of the Ethiopian Orthodox Tewahedo Church.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
